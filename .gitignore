@@ -1,0 +1,12 @@
+data/hub.json
+data/hub.json.*
+data/uploads/*
+!data/uploads/.keep
+__pycache__/
+*.pyc
+.DS_Store
+.env
+data/*.tmp
+data/trends-cache.json
+data/trends-prev.json
+data/.dev-hub.lock
