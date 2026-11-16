@@ -14,7 +14,7 @@ Your games, notes and images stay in the `data` folder on your computer. No acco
 
 You need **Python 3.8+** (free, no other installs).
 
-1. **[Download Dev Hub](https://github.com/patrickmata68-bot/dev-hub/releases/latest/download/dev-hub.zip)** and unzip it somewhere like Documents.
+1. **[Download Dev Hub](https://github.com/momentumcash/dev-hub/releases/latest/download/dev-hub.zip)** and unzip it somewhere like Documents.
 2. **Mac:** double-click `Start Dev Hub.command`. If macOS blocks it: right-click → Open → Open. If it says you need Python, install it from [python.org](https://www.python.org/downloads/) and double-click again.
    **Windows:** install Python from [python.org](https://www.python.org/downloads/) (tick **"Add python.exe to PATH"**), then double-click `Start Dev Hub.bat`.
 3. Your browser opens Dev Hub. Keep the black window open while you use it. Close it to stop.
