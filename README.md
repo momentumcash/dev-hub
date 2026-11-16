@@ -10,11 +10,25 @@ A free little app for making Roblox games. It runs on your own computer and keep
 
 Your games, notes and images stay in the `data` folder on your computer. No account, nothing uploaded. The app only talks to Roblox (for public game details and trends) and Fontshare (for its font).
 
-## Run it
+## Set it up with your AI (easiest)
+
+Open **Claude Code** or **Codex** and paste this:
+
+```
+Set up Dev Hub for me from https://github.com/momentumcash/dev-hub
+1. Clone it into my Documents folder.
+2. Check I have Python 3.8 or newer. If not, walk me through installing it from python.org.
+3. Read README.md, then start it with: python3 server.py
+4. Tell me the link it opens, and how to start it again next time.
+```
+
+Your AI downloads it straight from this page, checks it, and opens it for you.
+
+## Or run it yourself
 
 You need **Python 3.8+** (free, no other installs).
 
-1. **[Download Dev Hub](https://github.com/momentumcash/dev-hub/releases/latest/download/dev-hub.zip)** and unzip it somewhere like Documents.
+1. Click the green **Code** button at the top of this page → **Download ZIP**, and unzip it somewhere like Documents.
 2. **Mac:** double-click `Start Dev Hub.command`. If macOS blocks it: right-click → Open → Open. If it says you need Python, install it from [python.org](https://www.python.org/downloads/) and double-click again.
    **Windows:** install Python from [python.org](https://www.python.org/downloads/) (tick **"Add python.exe to PATH"**), then double-click `Start Dev Hub.bat`.
 3. Your browser opens Dev Hub. Keep the black window open while you use it. Close it to stop.
